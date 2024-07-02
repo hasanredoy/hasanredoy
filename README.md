@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/bwYX3Jc4/web-developer-background.jpg" alt="banner" width="" height="400"/>
+<img src="https://i.postimg.cc/bwYX3Jc4/web-developer-background.jpg" alt="banner" width="" height=""/>
 
 # My Cotributions 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasanredoy)](https://git.io/streak-stats)
@@ -19,7 +19,7 @@
 
   
 
-</br>
+# About Me 
 - 👋 Hi, I’m Hossain Hasan Redoy 
 - 🤍 I’m in loved in Web development
 - 👀 I'm Interested in Machin Learning 
