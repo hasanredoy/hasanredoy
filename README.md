@@ -1,7 +1,7 @@
-![](https://github.com/hasanredoy/hasanredoy.git)
+[](https://github.com/hasanredoy/hasanredoy.git)
 
 # My Cotributions 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hasanredoy)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com/?user=hasanredoy)](https://git.io/streak-stats)
 
 # My Skills 
 <p align="left">
