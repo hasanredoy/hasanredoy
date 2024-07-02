@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/bwYX3Jc4/web-developer-background.jpg" alt="banner" width="" height=""/>
+<img src="https://i.postimg.cc/bwYX3Jc4/web-developer-background.jpg" alt="banner" width="" height="400"/>
 
 # My Cotributions 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasanredoy)](https://git.io/streak-stats)
@@ -15,11 +15,11 @@
 # Reach Me Out 
 - [LikedIn](https://www.linkedin.com/in/hossain-hasan-redoy/)
 - [FaceBook](https://www.facebook.com/profile.php?id=61561249570802)
-- 📫 email : hossainhasanredoy@gmail.com
+- hossainhasanredoy@gmail.com
 
   
 
-
+</br>
 - 👋 Hi, I’m Hossain Hasan Redoy 
 - 🤍 I’m in loved in Web development
 - 👀 I'm Interested in Machin Learning 
