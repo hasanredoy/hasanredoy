@@ -10,7 +10,7 @@
       <img align="center" width=700  src="https://streak-stats.demolab.com/?user=hasanredoy&theme=react&border=61dafb&hide_border=true" alt="hasanredoy" />
     </a>
   <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a  title="Go to Source">
       <img align="center" width=700  src="https://github-readme-stats.vercel.app/api?username=hasanredoy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
