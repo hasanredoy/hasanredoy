@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/bwYX3Jc4/web-developer-background.jpg" alt="banner" width="1000" height="400"/>
+<img src="https://i.postimg.cc/W306P17g/web-developer-background.jpg" alt="banner" width="1000" height="400"/>
 
 
 # My Cotributions 
@@ -51,9 +51,7 @@
   <a href="https://www.facebook.com/profile.php?id=61561249570802" title="Go to Source">
       <img align="center" width=40  src="https://store-images.s-microsoft.com/image/apps.30645.9007199266245907.cb06f1f9-9154-408e-b4ef-d19f2325893b.ac3b465e-4384-42a8-9142-901c0405e1bc" alt="hasanredoy" />
     </a>
-  <a href="hossainhasanredoy@gmail.com" title="Go to Source">
-      <img align="center" width=40  src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" alt="hasanredoy" />
-    </a> 
+
 
 
   
