@@ -3,8 +3,9 @@
 
 
 # My Cotributions 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hasanredoy&theme=dark)](https://git.io/streak-stats)
 <br>
+      <img align="center" width=700  src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" alt="hasanredoy" />
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
