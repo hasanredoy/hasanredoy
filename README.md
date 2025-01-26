@@ -5,6 +5,7 @@
 # My Cotributions 
 <br>
 <p align=center>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hasanredoy&theme=dark)](https://git.io/streak-stats)
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=700  src="https://streak-stats.demolab.com/?user=hasanredoy&theme=react&border=61dafb&hide_border=true" alt="hasanredoy" />
